@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<hr>
+<p  align="center">  www.<font size ="500">Car</font>  <font size ="500" font color="red">Z</font>.com</center>
+     <HR>
+     <center>
+     <marquee width=30% behavior="alternate"> Welcome to CarZ.com</marquee>
+     </center>
+     <center>
+   <table><tr><td> <img  src="image1.jpg" align="right" height=150 width=250></td><td><center>
+<table>
+<tr><td> Enter Name</td><td><input type="text" ></td><br>
+<tr><td>Password</td><td><input type="password" ></td><br>
+<tr><td><a href="second.html">Register here</a><td>
+<td><input type="submit" value="login"></td>
+</tr>
+</table>
+</center></td><td><img src="lamborghini.jpg" align="left" height=100 widht=250></td></tr></table>
+ </center> 
+
+
+
+
+</body>
+</html>
+
